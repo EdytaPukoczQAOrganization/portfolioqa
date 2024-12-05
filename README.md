@@ -7,7 +7,7 @@ This is my QA portfolio.
 * ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## JIRA PROJECT
-[JIRA AGILE CV PROJECT] (https://edytapukoczqa.atlassian.net/jira/software/projects/PQA/boards/1/backlog)
+[JIRA AGILE CV PROJECT](https://edytapukoczqa.atlassian.net/jira/software/projects/PQA/boards/1/backlog)
 
 ## TEST PLAN
 
