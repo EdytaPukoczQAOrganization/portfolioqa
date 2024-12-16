@@ -59,9 +59,9 @@
     <section>
       <h2><i class="fa fa-envelope"></i> Contact</h2>
        <form action="https://docs.google.com/forms/d/e/1FAIpQLSdU3HUJtFVvdzp6-RE4d9NWWsj6aweVvJI0avcaUZ1XulhrIg/formResponse" method="POST">
-        <input type="email" id="name" name="entry.1642233998" placeholder="Email"><br>
-        <input type="text" id="email" name="entry.1766905959" placeholder="Subject"><br>
-        <textarea rows="4" id="message" name="entry.1245275707" placeholder="Your message"></textarea><br>
+        <input type="email" id="name" name="entry.1642233998" placeholder="Email" required><br>
+        <input type="text" id="email" name="entry.1766905959" placeholder="Subject" maxlength="40" minlength="2" required><br>
+        <textarea rows="4" id="message" name="entry.1245275707" placeholder="Your message" maxlength="500" minlength="2" required></textarea><br>
         <button type="submit"><i class="fa fa-paper-plane"></i> Send message</button>
       </form>
     </section>
